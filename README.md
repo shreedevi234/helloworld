@@ -1,2 +1,2 @@
-# helloworld
-integrating git with jenkins
+echo "hello world"
+
